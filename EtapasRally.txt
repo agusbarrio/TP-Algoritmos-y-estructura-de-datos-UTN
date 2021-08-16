@@ -1,0 +1,145 @@
+1 2 41 Juan Perez           Pedro Picapiedra     Ford            215
+3 4  7 Ricardo Corazon Leon Ma Belle de Carlomag Alfa Romeo      125
+1 1 45 Eliseo San Juan      Jairo Araujo         BMW             241
+4 2 41 Juan Perez           Pedro Picapiedra     Ford            123
+2 1 65 Luis Carlos Acuna    Cordon Lexus         Nissan          123
+1 4  7 Ricardo Corazon Leon Ma Belle de Carlomag Alfa Romeo       93
+4 4 72 Cayetano Pineiro     Teofilo Bravo        Chevrolet       221
+5 1 45 Eliseo San Juan      Jairo Araujo         BMW             999
+5 4  7 Ricardo Corazon Leon Ma Belle de Carlomag Alfa Romeo      999
+1 3 25 Patricio Gomez       Susana Torio         VolksWagen      182
+3 3 25 Patricio Gomez       Susana Torio         VolksWagen      345
+5 2 41 Juan Perez           Pedro Picapiedra     Ford            324
+3 1 45 Eliseo San Juan      Jairo Araujo         BMW             999
+5 3 25 Patricio Gomez       Susana Torio         VolksWagen      999
+3 2 41 Juan Perez           Pedro Picapiedra     Ford            452
+2 1 45 Eliseo San Juan      Jairo Araujo         BMW             423
+4 3 25 Patricio Gomez       Susana Torio         VolksWagen      999
+4 1 45 Eliseo San Juan      Jairo Araujo         BMW             999
+1 4 23 Thiago Brito         Iker Muriel          Mercedes Benz   134
+2 4 23 Thiago Brito         Iker Muriel          Mercedes Benz   321
+4 2 11 Roque Barrera Juan   Francisco Bosch      Hyundai         139
+5 4 23 Thiago Brito         Iker Muriel          Mercedes Benz   135
+1 2 52 Eduardo Jose Marin   Cesar Ruiz           Audi            123
+3 2 63 Armando Monge        Manuel Abril         Ford            423
+5 1 65 Luis Carlos Acuna    Cordon Lexus         Nissan           98
+3 4 23 Thiago Brito         Iker Muriel          Mercedes Benz   243
+5 2 52 Eduardo Jose Marin   Cesar Ruiz           Audi            999
+1 1 65 Luis Carlos Acuna    Cordon Lexus         Nissan           79
+2 2 63 Armando Monge        Manuel Abril         Ford            543
+2 4  7 Ricardo Corazon Leon Ma Belle de Carlomag Alfa Romeo      231
+4 1 65 Luis Carlos Acuna    Cordon Lexus         Nissan          111
+2 2 52 Eduardo Jose Marin   Cesar Ruiz           Audi            123
+2 1 75 Jose Fernando Acosta Izan Roig            Fiat            186
+4 4  7 Ricardo Corazon Leon Ma Belle de Carlomag Alfa Romeo      999
+4 2 52 Eduardo Jose Marin   Cesar Ruiz           Audi            999
+3 1 65 Luis Carlos Acuna    Cordon Lexus         Nissan          423
+5 4 89 Juan Antonio Cantos  Santiago Parra       Renault         265
+1 2 63 Armando Monge        Manuel Abril         Ford            142
+3 2 52 Eduardo Jose Marin   Cesar Ruiz           Audi            999
+4 4 23 Thiago Brito         Iker Muriel          Mercedes Benz   432
+4 2 63 Armando Monge        Manuel Abril         Ford            122
+3 3 24 Constantin Macias    Francisco Llorens    Dodge           301
+1 4 72 Cayetano Pineiro     Teofilo Bravo        Chevrolet       153
+3 4 15 Rafael Maroto        Ferran Agullo        Mercedes Benz   132
+4 1 75 Jose Fernando Acosta Izan Roig            Fiat            297
+5 4 72 Cayetano Pineiro     Teofilo Bravo        Chevrolet       342
+5 2 63 Armando Monge        Manuel Abril         Ford            100
+2 3 24 Constantin Macias    Francisco Llorens    Dodge           113
+3 4 89 Juan Antonio Cantos  Santiago Parra       Renault         543
+3 4 72 Cayetano Pineiro     Teofilo Bravo        Chevrolet       444
+5 3 24 Constantin Macias    Francisco Llorens    Dodge           223
+1 1 75 Jose Fernando Acosta Izan Roig            Fiat            111
+2 3 25 Patricio Gomez       Susana Torio         VolksWagen      234
+4 3 24 Constantin Macias    Francisco Llorens    Dodge           201
+1 4 89 Juan Antonio Cantos  Santiago Parra       Renault         265
+5 1 75 Jose Fernando Acosta Izan Roig            Fiat            111
+1 2 11 Roque Barrera Juan   Francisco Bosch      Hyundai         110
+1 3 24 Constantin Macias    Francisco Llorens    Dodge           242
+3 2 11 Roque Barrera Juan   Francisco Bosch      Hyundai         128
+4 4 89 Juan Antonio Cantos  Santiago Parra       Renault         234
+1 4 15 Rafael Maroto        Ferran Agullo        Mercedes Benz   132
+2 4 72 Cayetano Pineiro     Teofilo Bravo        Chevrolet       333
+2 4 89 Juan Antonio Cantos  Santiago Parra       Renault         123
+4 4 15 Rafael Maroto        Ferran Agullo        Mercedes Benz   132
+2 2 11 Roque Barrera Juan   Francisco Bosch      Hyundai         369
+3 1 75 Jose Fernando Acosta Izan Roig            Fiat            176
+2 4 15 Rafael Maroto        Ferran Agullo        Mercedes Benz   132
+5 2 11 Roque Barrera Juan   Francisco Bosch      Hyundai         374
+5 4 15 Rafael Maroto        Ferran Agullo        Mercedes Benz   132
+2 2 41 Juan Perez           Pedro Picapiedra     Ford            132
+1 2  1 Emilio Santa         Balduino Barrios     BMW             123
+2 2  1 Emilio Santa         Balduino Barrios     BMW             133
+3 2  1 Emilio Santa         Balduino Barrios     BMW             143
+4 2  1 Emilio Santa         Balduino Barrios     BMW             183
+5 2  1 Emilio Santa         Balduino Barrios     BMW             176
+1 3  3 Natanael Sanjuan     Nicanor Castello     Mercedes Benz   234
+2 3  3 Natanael Sanjuan     Nicanor Castello     Mercedes Benz   351
+3 3  3 Natanael Sanjuan     Nicanor Castello     Mercedes Benz   214
+4 3  3 Natanael Sanjuan     Nicanor Castello     Mercedes Benz   485
+5 3  3 Natanael Sanjuan     Nicanor Castello     Mercedes Benz   364
+1 4 99 Silvio Alfonso       Godofredo Cabanas    Audi            125
+2 4 99 Silvio Alfonso       Godofredo Cabanas    Audi            248
+3 4 99 Silvio Alfonso       Godofredo Cabanas    Audi            125
+4 4 99 Silvio Alfonso       Godofredo Cabanas    Audi            999
+5 4 99 Silvio Alfonso       Godofredo Cabanas    Audi            999
+1 1  2 Jonatan Manzano      Hector Lobato        Lexus           247
+2 1  2 Jonatan Manzano      Hector Lobato        Lexus           111
+3 1  2 Jonatan Manzano      Hector Lobato        Lexus            87
+4 1  2 Jonatan Manzano      Hector Lobato        Lexus           198
+5 1  2 Jonatan Manzano      Hector Lobato        Lexus           187
+1 1 96 Ruben Alcalde        Fito Lara            Renault         352
+2 1 96 Ruben Alcalde        Fito Lara            Renault         159
+3 1 96 Ruben Alcalde        Fito Lara            Renault         125
+4 1 96 Ruben Alcalde        Fito Lara            Renault         259
+5 1 96 Ruben Alcalde        Fito Lara            Renault          99
+1 2  4 Adrian Solera        Jose Villalonga      Ford            158
+2 2  4 Adrian Solera        Jose Villalonga      Ford            180
+3 2  4 Adrian Solera        Jose Villalonga      Ford            155
+4 2  4 Adrian Solera        Jose Villalonga      Ford            999
+5 2  4 Adrian Solera        Jose Villalonga      Ford            999
+1 3 37 Teodoro Duran        Ceferino Hidalgo     Opel            173
+2 3 37 Teodoro Duran        Ceferino Hidalgo     Opel            170
+3 3 37 Teodoro Duran        Ceferino Hidalgo     Opel            204
+4 3 37 Teodoro Duran        Ceferino Hidalgo     Opel            110
+5 3 37 Teodoro Duran        Ceferino Hidalgo     Opel            187
+1 2  5 Baltasar Delo        Alejandro Quiroga    Seat             69
+2 2  5 Baltasar Delo        Alejandro Quiroga    Seat             87
+3 2  5 Baltasar Delo        Alejandro Quiroga    Seat            320
+4 2  5 Baltasar Delo        Alejandro Quiroga    Seat            154
+5 2  5 Baltasar Delo        Alejandro Quiroga    Seat             89
+1 3 21 Maximiano Degea      Herminio Gonzalez    Hyundai         235
+2 3 21 Maximiano Degea      Herminio Gonzalez    Hyundai         325
+3 3 21 Maximiano Degea      Herminio Gonzalez    Hyundai         214
+4 3 21 Maximiano Degea      Herminio Gonzalez    Hyundai         102
+5 3 21 Maximiano Degea      Herminio Gonzalez    Hyundai         141
+1 1  8 Prudencio Reyes      Silvestre Gil        BMW             123
+2 1  8 Prudencio Reyes      Silvestre Gil        BMW             351
+3 1  8 Prudencio Reyes      Silvestre Gil        BMW             154
+4 1  8 Prudencio Reyes      Silvestre Gil        BMW              71
+5 1  8 Prudencio Reyes      Silvestre Gil        BMW             122
+1 4 77 Saturnino Noriega    Jose Angel Lastra    Mercedes Benz   222
+2 4 77 Saturnino Noriega    Jose Angel Lastra    Mercedes Benz   298
+3 4 77 Saturnino Noriega    Jose Angel Lastra    Mercedes Benz   254
+4 4 77 Saturnino Noriega    Jose Angel Lastra    Mercedes Benz   214
+5 4 77 Saturnino Noriega    Jose Angel Lastra    Mercedes Benz   999
+1 4  9 Emiliano Jose        Tristan Salazar      Audi            178
+2 4  9 Emiliano Jose        Tristan Salazar      Audi            300
+3 4  9 Emiliano Jose        Tristan Salazar      Audi            178
+4 4  9 Emiliano Jose        Tristan Salazar      Audi            160
+5 4  9 Emiliano Jose        Tristan Salazar      Audi            115
+1 3 83 Jose Luis Nava       Desiderio Garriga    Lexus           240
+2 3 83 Jose Luis Nava       Desiderio Garriga    Lexus           136
+3 3 83 Jose Luis Nava       Desiderio Garriga    Lexus           189
+4 3 83 Jose Luis Nava       Desiderio Garriga    Lexus           198
+5 3 83 Jose Luis Nava       Desiderio Garriga    Lexus           999
+1 1 64 Anibal Bermudez      Americo de Guerrero  Renault         154
+2 1 64 Anibal Bermudez      Americo de Guerrero  Renault         160
+3 1 64 Anibal Bermudez      Americo de Guerrero  Renault         155
+4 1 64 Anibal Bermudez      Americo de Guerrero  Renault         154
+5 1 64 Anibal Bermudez      Americo de Guerrero  Renault         200
+1 2 78 Sebastian Huertas    Rafael Picapiedra    Ford            184
+2 2 78 Sebastian Huertas    Rafael Picapiedra    Ford            999
+3 2 78 Sebastian Huertas    Rafael Picapiedra    Ford            999
+4 2 78 Sebastian Huertas    Rafael Picapiedra    Ford            999
+5 2 78 Sebastian Huertas    Rafael Picapiedra    Ford            999

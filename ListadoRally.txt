@@ -1,0 +1,384 @@
+   Listado de Corredores de Etapas y Tipos de Vehículos
+   ----------------------------------------------------
+Etp. TpVehic. Nombre del Piloto        Nombre del CoPiloto          Marca Vehic.    Tiempo mins
+ 1     2      Juan Perez               Pedro Picapiedra             Ford               215
+ 3     4      Ricardo Corazon Leon     Ma Belle de Carlomag         Alfa Romeo         125
+ 1     1      Eliseo San Juan          Jairo Araujo                 BMW                241
+ 4     2      Juan Perez               Pedro Picapiedra             Ford               123
+ 2     1      Luis Carlos Acuna        Cordon Lexus                 Nissan             123
+ 1     4      Ricardo Corazon Leon     Ma Belle de Carlomag         Alfa Romeo          93
+ 4     4      Cayetano Pineiro         Teofilo Bravo                Chevrolet          221
+ 5     1      Eliseo San Juan          Jairo Araujo                 BMW                999
+ 5     4      Ricardo Corazon Leon     Ma Belle de Carlomag         Alfa Romeo         999
+ 1     3      Patricio Gomez           Susana Torio                 VolksWagen         182
+ 3     3      Patricio Gomez           Susana Torio                 VolksWagen         345
+ 5     2      Juan Perez               Pedro Picapiedra             Ford               324
+ 3     1      Eliseo San Juan          Jairo Araujo                 BMW                999
+ 5     3      Patricio Gomez           Susana Torio                 VolksWagen         999
+ 3     2      Juan Perez               Pedro Picapiedra             Ford               452
+ 2     1      Eliseo San Juan          Jairo Araujo                 BMW                423
+ 4     3      Patricio Gomez           Susana Torio                 VolksWagen         999
+ 4     1      Eliseo San Juan          Jairo Araujo                 BMW                999
+ 1     4      Thiago Brito             Iker Muriel                  Mercedes Benz      134
+ 2     4      Thiago Brito             Iker Muriel                  Mercedes Benz      321
+ 4     2      Roque Barrera Juan       Francisco Bosch              Hyundai            139
+ 5     4      Thiago Brito             Iker Muriel                  Mercedes Benz      135
+ 1     2      Eduardo Jose Marin       Cesar Ruiz                   Audi               123
+ 3     2      Armando Monge            Manuel Abril                 Ford               423
+ 5     1      Luis Carlos Acuna        Cordon Lexus                 Nissan              98
+ 3     4      Thiago Brito             Iker Muriel                  Mercedes Benz      243
+ 5     2      Eduardo Jose Marin       Cesar Ruiz                   Audi               999
+ 1     1      Luis Carlos Acuna        Cordon Lexus                 Nissan              79
+ 2     2      Armando Monge            Manuel Abril                 Ford               543
+ 2     4      Ricardo Corazon Leon     Ma Belle de Carlomag         Alfa Romeo         231
+ 4     1      Luis Carlos Acuna        Cordon Lexus                 Nissan             111
+ 2     2      Eduardo Jose Marin       Cesar Ruiz                   Audi               123
+ 2     1      Jose Fernando Acosta     Izan Roig                    Fiat               186
+ 4     4      Ricardo Corazon Leon     Ma Belle de Carlomag         Alfa Romeo         999
+ 4     2      Eduardo Jose Marin       Cesar Ruiz                   Audi               999
+ 3     1      Luis Carlos Acuna        Cordon Lexus                 Nissan             423
+ 5     4      Juan Antonio Cantos      Santiago Parra               Renault            265
+ 1     2      Armando Monge            Manuel Abril                 Ford               142
+ 3     2      Eduardo Jose Marin       Cesar Ruiz                   Audi               999
+ 4     4      Thiago Brito             Iker Muriel                  Mercedes Benz      432
+ 4     2      Armando Monge            Manuel Abril                 Ford               122
+ 3     3      Constantin Macias        Francisco Llorens            Dodge              301
+ 1     4      Cayetano Pineiro         Teofilo Bravo                Chevrolet          153
+ 3     4      Rafael Maroto            Ferran Agullo                Mercedes Benz      132
+ 4     1      Jose Fernando Acosta     Izan Roig                    Fiat               297
+ 5     4      Cayetano Pineiro         Teofilo Bravo                Chevrolet          342
+ 5     2      Armando Monge            Manuel Abril                 Ford               100
+ 2     3      Constantin Macias        Francisco Llorens            Dodge              113
+ 3     4      Juan Antonio Cantos      Santiago Parra               Renault            543
+ 3     4      Cayetano Pineiro         Teofilo Bravo                Chevrolet          444
+ 5     3      Constantin Macias        Francisco Llorens            Dodge              223
+ 1     1      Jose Fernando Acosta     Izan Roig                    Fiat               111
+ 2     3      Patricio Gomez           Susana Torio                 VolksWagen         234
+ 4     3      Constantin Macias        Francisco Llorens            Dodge              201
+ 1     4      Juan Antonio Cantos      Santiago Parra               Renault            265
+ 5     1      Jose Fernando Acosta     Izan Roig                    Fiat               111
+ 1     2      Roque Barrera Juan       Francisco Bosch              Hyundai            110
+ 1     3      Constantin Macias        Francisco Llorens            Dodge              242
+ 3     2      Roque Barrera Juan       Francisco Bosch              Hyundai            128
+ 4     4      Juan Antonio Cantos      Santiago Parra               Renault            234
+ 1     4      Rafael Maroto            Ferran Agullo                Mercedes Benz      132
+ 2     4      Cayetano Pineiro         Teofilo Bravo                Chevrolet          333
+ 2     4      Juan Antonio Cantos      Santiago Parra               Renault            123
+ 4     4      Rafael Maroto            Ferran Agullo                Mercedes Benz      132
+ 2     2      Roque Barrera Juan       Francisco Bosch              Hyundai            369
+ 3     1      Jose Fernando Acosta     Izan Roig                    Fiat               176
+ 2     4      Rafael Maroto            Ferran Agullo                Mercedes Benz      132
+ 5     2      Roque Barrera Juan       Francisco Bosch              Hyundai            374
+ 5     4      Rafael Maroto            Ferran Agullo                Mercedes Benz      132
+ 2     2      Juan Perez               Pedro Picapiedra             Ford               132
+ 1     2      Emilio Santa             Balduino Barrios             BMW                123
+ 2     2      Emilio Santa             Balduino Barrios             BMW                133
+ 3     2      Emilio Santa             Balduino Barrios             BMW                143
+ 4     2      Emilio Santa             Balduino Barrios             BMW                183
+ 5     2      Emilio Santa             Balduino Barrios             BMW                176
+ 1     3      Natanael Sanjuan         Nicanor Castello             Mercedes Benz      234
+ 2     3      Natanael Sanjuan         Nicanor Castello             Mercedes Benz      351
+ 3     3      Natanael Sanjuan         Nicanor Castello             Mercedes Benz      214
+ 4     3      Natanael Sanjuan         Nicanor Castello             Mercedes Benz      485
+ 5     3      Natanael Sanjuan         Nicanor Castello             Mercedes Benz      364
+ 1     4      Silvio Alfonso           Godofredo Cabanas            Audi               125
+ 2     4      Silvio Alfonso           Godofredo Cabanas            Audi               248
+ 3     4      Silvio Alfonso           Godofredo Cabanas            Audi               125
+ 4     4      Silvio Alfonso           Godofredo Cabanas            Audi               999
+ 5     4      Silvio Alfonso           Godofredo Cabanas            Audi               999
+ 1     1      Jonatan Manzano          Hector Lobato                Lexus              247
+ 2     1      Jonatan Manzano          Hector Lobato                Lexus              111
+ 3     1      Jonatan Manzano          Hector Lobato                Lexus               87
+ 4     1      Jonatan Manzano          Hector Lobato                Lexus              198
+ 5     1      Jonatan Manzano          Hector Lobato                Lexus              187
+ 1     1      Ruben Alcalde            Fito Lara                    Renault            352
+ 2     1      Ruben Alcalde            Fito Lara                    Renault            159
+ 3     1      Ruben Alcalde            Fito Lara                    Renault            125
+ 4     1      Ruben Alcalde            Fito Lara                    Renault            259
+ 5     1      Ruben Alcalde            Fito Lara                    Renault             99
+ 1     2      Adrian Solera            Jose Villalonga              Ford               158
+ 2     2      Adrian Solera            Jose Villalonga              Ford               180
+ 3     2      Adrian Solera            Jose Villalonga              Ford               155
+ 4     2      Adrian Solera            Jose Villalonga              Ford               999
+ 5     2      Adrian Solera            Jose Villalonga              Ford               999
+ 1     3      Teodoro Duran            Ceferino Hidalgo             Opel               173
+ 2     3      Teodoro Duran            Ceferino Hidalgo             Opel               170
+ 3     3      Teodoro Duran            Ceferino Hidalgo             Opel               204
+ 4     3      Teodoro Duran            Ceferino Hidalgo             Opel               110
+ 5     3      Teodoro Duran            Ceferino Hidalgo             Opel               187
+ 1     2      Baltasar Delo            Alejandro Quiroga            Seat                69
+ 2     2      Baltasar Delo            Alejandro Quiroga            Seat                87
+ 3     2      Baltasar Delo            Alejandro Quiroga            Seat               320
+ 4     2      Baltasar Delo            Alejandro Quiroga            Seat               154
+ 5     2      Baltasar Delo            Alejandro Quiroga            Seat                89
+ 1     3      Maximiano Degea          Herminio Gonzalez            Hyundai            235
+ 2     3      Maximiano Degea          Herminio Gonzalez            Hyundai            325
+ 3     3      Maximiano Degea          Herminio Gonzalez            Hyundai            214
+ 4     3      Maximiano Degea          Herminio Gonzalez            Hyundai            102
+ 5     3      Maximiano Degea          Herminio Gonzalez            Hyundai            141
+ 1     1      Prudencio Reyes          Silvestre Gil                BMW                123
+ 2     1      Prudencio Reyes          Silvestre Gil                BMW                351
+ 3     1      Prudencio Reyes          Silvestre Gil                BMW                154
+ 4     1      Prudencio Reyes          Silvestre Gil                BMW                 71
+ 5     1      Prudencio Reyes          Silvestre Gil                BMW                122
+ 1     4      Saturnino Noriega        Jose Angel Lastra            Mercedes Benz      222
+ 2     4      Saturnino Noriega        Jose Angel Lastra            Mercedes Benz      298
+ 3     4      Saturnino Noriega        Jose Angel Lastra            Mercedes Benz      254
+ 4     4      Saturnino Noriega        Jose Angel Lastra            Mercedes Benz      214
+ 5     4      Saturnino Noriega        Jose Angel Lastra            Mercedes Benz      999
+ 1     4      Emiliano Jose            Tristan Salazar              Audi               178
+ 2     4      Emiliano Jose            Tristan Salazar              Audi               300
+ 3     4      Emiliano Jose            Tristan Salazar              Audi               178
+ 4     4      Emiliano Jose            Tristan Salazar              Audi               160
+ 5     4      Emiliano Jose            Tristan Salazar              Audi               115
+ 1     3      Jose Luis Nava           Desiderio Garriga            Lexus              240
+ 2     3      Jose Luis Nava           Desiderio Garriga            Lexus              136
+ 3     3      Jose Luis Nava           Desiderio Garriga            Lexus              189
+ 4     3      Jose Luis Nava           Desiderio Garriga            Lexus              198
+ 5     3      Jose Luis Nava           Desiderio Garriga            Lexus              999
+ 1     1      Anibal Bermudez          Americo de Guerrero          Renault            154
+ 2     1      Anibal Bermudez          Americo de Guerrero          Renault            160
+ 3     1      Anibal Bermudez          Americo de Guerrero          Renault            155
+ 4     1      Anibal Bermudez          Americo de Guerrero          Renault            154
+ 5     1      Anibal Bermudez          Americo de Guerrero          Renault            200
+ 1     2      Sebastian Huertas        Rafael Picapiedra            Ford               184
+ 2     2      Sebastian Huertas        Rafael Picapiedra            Ford               999
+ 3     2      Sebastian Huertas        Rafael Picapiedra            Ford               999
+ 4     2      Sebastian Huertas        Rafael Picapiedra            Ford               999
+ 5     2      Sebastian Huertas        Rafael Picapiedra            Ford               999
+
+   Listado de largada
+   ------------------
+Nro. Etapa: 1
+   Tipo Vehiculo: 1
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           2        Jonatan Manzano      Hector Lobato        Lexus          
+           8        Prudencio Reyes      Silvestre Gil        BMW            
+          45        Eliseo San Juan      Jairo Araujo         BMW            
+          64        Anibal Bermudez      Americo de Guerrero  Renault        
+          65        Luis Carlos Acuna    Cordon Lexus         Nissan         
+          75        Jose Fernando Acosta Izan Roig            Fiat           
+          96        Ruben Alcalde        Fito Lara            Renault        
+   Tipo Vehiculo: 2
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           1        Emilio Santa         Balduino Barrios     BMW            
+           4        Adrian Solera        Jose Villalonga      Ford           
+           5        Baltasar Delo        Alejandro Quiroga    Seat           
+          11        Roque Barrera Juan   Francisco Bosch      Hyundai        
+          41        Juan Perez           Pedro Picapiedra     Ford           
+          52        Eduardo Jose Marin   Cesar Ruiz           Audi           
+          63        Armando Monge        Manuel Abril         Ford           
+          78        Sebastian Huertas    Rafael Picapiedra    Ford           
+   Tipo Vehiculo: 3
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           3        Natanael Sanjuan     Nicanor Castello     Mercedes Benz  
+          21        Maximiano Degea      Herminio Gonzalez    Hyundai        
+          24        Constantin Macias    Francisco Llorens    Dodge          
+          25        Patricio Gomez       Susana Torio         VolksWagen     
+          37        Teodoro Duran        Ceferino Hidalgo     Opel           
+          83        Jose Luis Nava       Desiderio Garriga    Lexus          
+   Tipo Vehiculo: 4
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           7        Ricardo Corazon Leon Ma Belle de Carlomag Alfa Romeo     
+           9        Emiliano Jose        Tristan Salazar      Audi           
+          15        Rafael Maroto        Ferran Agullo        Mercedes Benz  
+          23        Thiago Brito         Iker Muriel          Mercedes Benz  
+          72        Cayetano Pineiro     Teofilo Bravo        Chevrolet      
+          77        Saturnino Noriega    Jose Angel Lastra    Mercedes Benz  
+          89        Juan Antonio Cantos  Santiago Parra       Renault        
+          99        Silvio Alfonso       Godofredo Cabanas    Audi           
+Nro. Etapa: 2
+   Tipo Vehiculo: 1
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           2        Jonatan Manzano      Hector Lobato        Lexus          
+           8        Prudencio Reyes      Silvestre Gil        BMW            
+          45        Eliseo San Juan      Jairo Araujo         BMW            
+          64        Anibal Bermudez      Americo de Guerrero  Renault        
+          65        Luis Carlos Acuna    Cordon Lexus         Nissan         
+          75        Jose Fernando Acosta Izan Roig            Fiat           
+          96        Ruben Alcalde        Fito Lara            Renault        
+   Tipo Vehiculo: 2
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           1        Emilio Santa         Balduino Barrios     BMW            
+           4        Adrian Solera        Jose Villalonga      Ford           
+           5        Baltasar Delo        Alejandro Quiroga    Seat           
+          11        Roque Barrera Juan   Francisco Bosch      Hyundai        
+          41        Juan Perez           Pedro Picapiedra     Ford           
+          52        Eduardo Jose Marin   Cesar Ruiz           Audi           
+          63        Armando Monge        Manuel Abril         Ford           
+          78        Sebastian Huertas    Rafael Picapiedra    Ford           
+   Tipo Vehiculo: 3
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           3        Natanael Sanjuan     Nicanor Castello     Mercedes Benz  
+          21        Maximiano Degea      Herminio Gonzalez    Hyundai        
+          24        Constantin Macias    Francisco Llorens    Dodge          
+          25        Patricio Gomez       Susana Torio         VolksWagen     
+          37        Teodoro Duran        Ceferino Hidalgo     Opel           
+          83        Jose Luis Nava       Desiderio Garriga    Lexus          
+   Tipo Vehiculo: 4
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           7        Ricardo Corazon Leon Ma Belle de Carlomag Alfa Romeo     
+           9        Emiliano Jose        Tristan Salazar      Audi           
+          15        Rafael Maroto        Ferran Agullo        Mercedes Benz  
+          23        Thiago Brito         Iker Muriel          Mercedes Benz  
+          72        Cayetano Pineiro     Teofilo Bravo        Chevrolet      
+          77        Saturnino Noriega    Jose Angel Lastra    Mercedes Benz  
+          89        Juan Antonio Cantos  Santiago Parra       Renault        
+          99        Silvio Alfonso       Godofredo Cabanas    Audi           
+Nro. Etapa: 3
+   Tipo Vehiculo: 1
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           2        Jonatan Manzano      Hector Lobato        Lexus          
+           8        Prudencio Reyes      Silvestre Gil        BMW            
+          45        Eliseo San Juan      Jairo Araujo         BMW            
+          64        Anibal Bermudez      Americo de Guerrero  Renault        
+          65        Luis Carlos Acuna    Cordon Lexus         Nissan         
+          75        Jose Fernando Acosta Izan Roig            Fiat           
+          96        Ruben Alcalde        Fito Lara            Renault        
+   Tipo Vehiculo: 2
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           1        Emilio Santa         Balduino Barrios     BMW            
+           4        Adrian Solera        Jose Villalonga      Ford           
+           5        Baltasar Delo        Alejandro Quiroga    Seat           
+          11        Roque Barrera Juan   Francisco Bosch      Hyundai        
+          41        Juan Perez           Pedro Picapiedra     Ford           
+          52        Eduardo Jose Marin   Cesar Ruiz           Audi           
+          63        Armando Monge        Manuel Abril         Ford           
+          78        Sebastian Huertas    Rafael Picapiedra    Ford           
+   Tipo Vehiculo: 3
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           3        Natanael Sanjuan     Nicanor Castello     Mercedes Benz  
+          21        Maximiano Degea      Herminio Gonzalez    Hyundai        
+          24        Constantin Macias    Francisco Llorens    Dodge          
+          25        Patricio Gomez       Susana Torio         VolksWagen     
+          37        Teodoro Duran        Ceferino Hidalgo     Opel           
+          83        Jose Luis Nava       Desiderio Garriga    Lexus          
+   Tipo Vehiculo: 4
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           7        Ricardo Corazon Leon Ma Belle de Carlomag Alfa Romeo     
+           9        Emiliano Jose        Tristan Salazar      Audi           
+          15        Rafael Maroto        Ferran Agullo        Mercedes Benz  
+          23        Thiago Brito         Iker Muriel          Mercedes Benz  
+          72        Cayetano Pineiro     Teofilo Bravo        Chevrolet      
+          77        Saturnino Noriega    Jose Angel Lastra    Mercedes Benz  
+          89        Juan Antonio Cantos  Santiago Parra       Renault        
+          99        Silvio Alfonso       Godofredo Cabanas    Audi           
+Nro. Etapa: 4
+   Tipo Vehiculo: 1
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           2        Jonatan Manzano      Hector Lobato        Lexus          
+           8        Prudencio Reyes      Silvestre Gil        BMW            
+          45        Eliseo San Juan      Jairo Araujo         BMW            
+          64        Anibal Bermudez      Americo de Guerrero  Renault        
+          65        Luis Carlos Acuna    Cordon Lexus         Nissan         
+          75        Jose Fernando Acosta Izan Roig            Fiat           
+          96        Ruben Alcalde        Fito Lara            Renault        
+   Tipo Vehiculo: 2
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           1        Emilio Santa         Balduino Barrios     BMW            
+           4        Adrian Solera        Jose Villalonga      Ford           
+           5        Baltasar Delo        Alejandro Quiroga    Seat           
+          11        Roque Barrera Juan   Francisco Bosch      Hyundai        
+          41        Juan Perez           Pedro Picapiedra     Ford           
+          52        Eduardo Jose Marin   Cesar Ruiz           Audi           
+          63        Armando Monge        Manuel Abril         Ford           
+          78        Sebastian Huertas    Rafael Picapiedra    Ford           
+   Tipo Vehiculo: 3
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           3        Natanael Sanjuan     Nicanor Castello     Mercedes Benz  
+          21        Maximiano Degea      Herminio Gonzalez    Hyundai        
+          24        Constantin Macias    Francisco Llorens    Dodge          
+          25        Patricio Gomez       Susana Torio         VolksWagen     
+          37        Teodoro Duran        Ceferino Hidalgo     Opel           
+          83        Jose Luis Nava       Desiderio Garriga    Lexus          
+   Tipo Vehiculo: 4
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           7        Ricardo Corazon Leon Ma Belle de Carlomag Alfa Romeo     
+           9        Emiliano Jose        Tristan Salazar      Audi           
+          15        Rafael Maroto        Ferran Agullo        Mercedes Benz  
+          23        Thiago Brito         Iker Muriel          Mercedes Benz  
+          72        Cayetano Pineiro     Teofilo Bravo        Chevrolet      
+          77        Saturnino Noriega    Jose Angel Lastra    Mercedes Benz  
+          89        Juan Antonio Cantos  Santiago Parra       Renault        
+          99        Silvio Alfonso       Godofredo Cabanas    Audi           
+Nro. Etapa: 5
+   Tipo Vehiculo: 1
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           2        Jonatan Manzano      Hector Lobato        Lexus          
+           8        Prudencio Reyes      Silvestre Gil        BMW            
+          45        Eliseo San Juan      Jairo Araujo         BMW            
+          64        Anibal Bermudez      Americo de Guerrero  Renault        
+          65        Luis Carlos Acuna    Cordon Lexus         Nissan         
+          75        Jose Fernando Acosta Izan Roig            Fiat           
+          96        Ruben Alcalde        Fito Lara            Renault        
+   Tipo Vehiculo: 2
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           1        Emilio Santa         Balduino Barrios     BMW            
+           4        Adrian Solera        Jose Villalonga      Ford           
+           5        Baltasar Delo        Alejandro Quiroga    Seat           
+          11        Roque Barrera Juan   Francisco Bosch      Hyundai        
+          41        Juan Perez           Pedro Picapiedra     Ford           
+          52        Eduardo Jose Marin   Cesar Ruiz           Audi           
+          63        Armando Monge        Manuel Abril         Ford           
+          78        Sebastian Huertas    Rafael Picapiedra    Ford           
+   Tipo Vehiculo: 3
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           3        Natanael Sanjuan     Nicanor Castello     Mercedes Benz  
+          21        Maximiano Degea      Herminio Gonzalez    Hyundai        
+          24        Constantin Macias    Francisco Llorens    Dodge          
+          25        Patricio Gomez       Susana Torio         VolksWagen     
+          37        Teodoro Duran        Ceferino Hidalgo     Opel           
+          83        Jose Luis Nava       Desiderio Garriga    Lexus          
+   Tipo Vehiculo: 4
+       Nro. Vehic.  Nom. Piloto          Nom. CoPiloto        Marca Vehic.
+           7        Ricardo Corazon Leon Ma Belle de Carlomag Alfa Romeo     
+           9        Emiliano Jose        Tristan Salazar      Audi           
+          15        Rafael Maroto        Ferran Agullo        Mercedes Benz  
+          23        Thiago Brito         Iker Muriel          Mercedes Benz  
+          72        Cayetano Pineiro     Teofilo Bravo        Chevrolet      
+          77        Saturnino Noriega    Jose Angel Lastra    Mercedes Benz  
+          89        Juan Antonio Cantos  Santiago Parra       Renault        
+          99        Silvio Alfonso       Godofredo Cabanas    Audi           
+
+   Listado de Puestos Finales Carrera Rally
+   ----------------------------------------
+Puesto T.Vehic. Nro.Vehic. Nom. Piloto          Nom. CoPiloto        Marca Vehic.    Tiempo Total
+ 1       4        15       Rafael Maroto        Ferran Agullo        Mercedes Benz      660
+ 2       2         5       Baltasar Delo        Alejandro Quiroga    Seat               719
+ 3       2         1       Emilio Santa         Balduino Barrios     BMW                758
+ 4       1         8       Prudencio Reyes      Silvestre Gil        BMW                821
+ 5       1        64       Anibal Bermudez      Americo de Guerrero  Renault            823
+ 6       1         2       Jonatan Manzano      Hector Lobato        Lexus              830
+ 7       1        65       Luis Carlos Acuna    Cordon Lexus         Nissan             834
+ 8       3        37       Teodoro Duran        Ceferino Hidalgo     Opel               844
+ 9       1        75       Jose Fernando Acosta Izan Roig            Fiat               881
+10       4         9       Emiliano Jose        Tristan Salazar      Audi               931
+11       1        96       Ruben Alcalde        Fito Lara            Renault            994
+12       3        21       Maximiano Degea      Herminio Gonzalez    Hyundai           1017
+13       3        24       Constantin Macias    Francisco Llorens    Dodge             1080
+14       2        11       Roque Barrera Juan   Francisco Bosch      Hyundai           1120
+15       2        41       Juan Perez           Pedro Picapiedra     Ford              1246
+16       4        23       Thiago Brito         Iker Muriel          Mercedes Benz     1265
+17       2        63       Armando Monge        Manuel Abril         Ford              1330
+18       4        89       Juan Antonio Cantos  Santiago Parra       Renault           1430
+19       4        72       Cayetano Pineiro     Teofilo Bravo        Chevrolet         1493
+20       3         3       Natanael Sanjuan     Nicanor Castello     Mercedes Benz     1648
+21       3        83       Jose Luis Nava       Desiderio Garriga    Lexus             1762
+22       4        77       Saturnino Noriega    Jose Angel Lastra    Mercedes Benz     1987
+23       4         7       Ricardo Corazon Leon Ma Belle de Carlomag Alfa Romeo        2447
+24       2         4       Adrian Solera        Jose Villalonga      Ford              2491
+25       4        99       Silvio Alfonso       Godofredo Cabanas    Audi              2496
+26       3        25       Patricio Gomez       Susana Torio         VolksWagen        2759
+27       2        52       Eduardo Jose Marin   Cesar Ruiz           Audi              3243
+28       1        45       Eliseo San Juan      Jairo Araujo         BMW               3661
+29       2        78       Sebastian Huertas    Rafael Picapiedra    Ford              4180
+
+   Listados de Ganadores por tipos de Vehiculos
+   --------------------------------------------
+Tipo Vehic.    Nro. Vehic.    Nombre del Piloto  Tiempo Total
+    1               8         Prudencio Reyes        821
+    2               5         Baltasar Delo          719
+    3              37         Teodoro Duran          844
+    4              15         Rafael Maroto          660
+
+Cantidad de conductores que abandonaron: 12
